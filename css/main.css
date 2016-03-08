@@ -188,9 +188,15 @@ input[type=submit] {
     height: 200px;
 }
 
-.reset, .submit {
+.submit {
     width: 150px;
     float: left;
+}
+
+
+.reset {
+    width: 150px;
+    float: right;
 }
 
 

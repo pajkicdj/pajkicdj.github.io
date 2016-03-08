@@ -169,7 +169,7 @@ input[type=text], input[type=email], textarea {
     font-size: 1em;
 }
 
-input[type=sumbit] {
+input[type=reset], input[type=submit] {
     padding: .5em;
     background-color: white;
     border: solid 1px #244751;

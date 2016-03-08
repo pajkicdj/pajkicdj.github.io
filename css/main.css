@@ -183,8 +183,9 @@ input[type=reset], input[type=submit] {
     display: inline-block;
 }
 
-.form-submit {
+.form-action {
     width: 350px;
+    heigh: 200px;
 }
 
 .sumbit {

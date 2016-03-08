@@ -76,7 +76,9 @@ ul.posts li {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    
 }
+
 
 .container>ul>li {
     display: table-cell;
@@ -97,6 +99,10 @@ ul.posts li {
     padding: 20px 20px;
     text-transform: uppercase;
     text-decoration: none;
+}
+
+.btn-your-class:hover {
+    color: rgba(251,12,6,1);
 }
 
 

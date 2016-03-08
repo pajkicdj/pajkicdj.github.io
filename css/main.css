@@ -169,5 +169,12 @@ input[type=text], input[type=email], textarea {
     font-size: 1em;
 }
 
+.button {
+    padding: .5em;
+    background-color: white;
+    border: solid 1px #244751;
+    display: inline-block;
+}
+
 
 

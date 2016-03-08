@@ -190,6 +190,10 @@ input[type=submit] {
     height: 200px;
 }
 
+.reset, .submit {
+    width: 50%;
+}
+
 
 
 

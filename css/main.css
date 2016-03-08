@@ -175,6 +175,7 @@ input[type=reset], input[type=submit] {
     border: solid 1px #244751;
     display: table-cell;
     padding: 20px;
+    padding: 10px 20px 10px 20px;
 }
 
 

@@ -111,7 +111,7 @@ ul.posts li {
     font-weight: 700;
     font-size: 37px;
     letter-spacing: 4px;
-    padding: 70px 70px;
+    padding: 60px 70px 20px 70px;
     text-align: center;
     text-transform: initial;
 }
@@ -121,9 +121,10 @@ ul.posts li {
     font-family: 'Lato', Arial, sans-serif;
     font-weight: 300;
     font-size: 14px;
+    text-align: center;
     letter-spacing: 2px;
-    line-height: 36px;
-    padding: 10px 0 20px 0;
+    line-height: 25px;
+    padding: 0px 90px 50px 90px;
     position: relative;
     text-decoration: none;
     color: rgba(0,0,0,1);
@@ -132,6 +133,11 @@ ul.posts li {
     -moz-transition: .5s;
     -webkit-transition: .5s;
     transition: .5s;
+}
+
+.head-text span {
+    background-color: #fb0c06;
+    color: white;
 }
 
 

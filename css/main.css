@@ -105,7 +105,34 @@ ul.posts li {
 }
 
 
+.head-text {
+    color: #000000;
+    font-family: 'FunctionPro-Demi', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 2px;
+    padding: 70px 70px;
+    text-align: center;
+    text-transform: initial;
+}
 
+
+.blurb {
+    font-family: 'Lato', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 36px;
+    padding: 10px 0 20px 0;
+    position: relative;
+    text-decoration: none;
+    color: rgba(0,0,0,1);
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
 
 
 

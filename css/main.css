@@ -1,7 +1,4 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -47,3 +44,22 @@ ul.posts li {
     width: 85%;
     padding: 0;
 }
+
+.nav ul {
+    padding-left: 0px;
+    padding-top:8px;
+    padding-bottom: 8px;
+}
+
+.pull-left {
+    float: left! important;
+}
+
+.pull-right {
+    float: right!important;
+}
+
+
+
+
+

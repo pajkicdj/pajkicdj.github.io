@@ -159,13 +159,13 @@ ul.posts li {
 }
 
 .form {
-    margin-left: 30%;
+    margin-left: 25%;
 }
 
 input[type=text], input[type=email], textarea {
     border: solid 1px #244751;
     padding: .5em;
-    width: 200px;
+    width: 350px;
     font-size: 1em;
 }
 

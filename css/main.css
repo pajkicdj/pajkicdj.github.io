@@ -173,7 +173,6 @@ input[type=reset] {
     padding: .5em;
     background-color: white;
     border: solid 1px #244751;
-    float: left;
     display: table-cell;
 }
 
@@ -181,7 +180,6 @@ input[type=submit] {
     padding: .5em;
     background-color: white;
     border: solid 1px #244751;
-    float: left;
     display: table-cell;
 }
 
@@ -191,7 +189,8 @@ input[type=submit] {
 }
 
 .reset, .submit {
-    width: 50%;
+    width: 150px;
+    float: left;
 }
 
 

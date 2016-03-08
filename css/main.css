@@ -184,4 +184,13 @@ input[type=reset], input[type=submit] {
     display: inline-block;
 }
 
+.sumbit {
+    float: left!important;
+}
+
+.reset {
+    float: right!important;
+}
+
+
 

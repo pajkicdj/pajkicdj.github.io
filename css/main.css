@@ -177,7 +177,6 @@ input[type=reset], input[type=submit] {
 }
 
 .sumbit, .reset {
-    .button {
     padding: .5em;
     background-color: white;
     border: solid 1px #244751;
@@ -185,7 +184,7 @@ input[type=reset], input[type=submit] {
 }
 
 .form-submit {
-    width: 63.5%;
+    width: 350px;
 }
 
 .sumbit {

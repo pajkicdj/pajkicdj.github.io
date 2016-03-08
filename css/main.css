@@ -186,6 +186,40 @@ input[type=reset], input[type=submit] {
     padding: 30px 70px 20px 70px;
 }
 
+.learn-more {
+    background-color: #f7f7f7;
+}
+
+.learn-more h2 {
+    color: #6c6c6c;
+    font-family: 'FunctionPro-Demi', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 2px;
+    padding: 80px 0 30px;
+    text-align: center;
+}
+
+.info3 {
+    font-family: 'Lato', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: 4px;
+    line-height: 22px;
+    padding: 40px 0 20px 0;
+    text-transform: uppercase;
+    position: relative;
+    text-decoration: none;
+    color: rgba(0,0,0,1);
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+
+
 
 
 

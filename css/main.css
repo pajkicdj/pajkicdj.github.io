@@ -169,33 +169,27 @@ input[type=text], input[type=email], textarea {
     font-size: 1em;
 }
 
-input[type=reset], input[type=submit] {
+input[type=reset] {
     padding: .5em;
     background-color: white;
     border: solid 1px #244751;
-    display: inline-block;
+    float: left;
+    display: table-cell;
 }
 
-.sumbit, .reset {
+input[type=submit] {
     padding: .5em;
     background-color: white;
     border: solid 1px #244751;
-    display: inline-block;
+    float: left;
+    display: table-cell;
 }
 
 .form-action {
     width: 350px;
-    heigh: 200px;
+    height: 200px;
 }
 
-.sumbit {
-    float: left;
-    overflow: auto;
-}
-
-.reset {
-    float: right;
-}
 
 
 

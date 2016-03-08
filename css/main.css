@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.container {
+    min-width: 300px;
+    width: 85%;
+    padding: 0;
+}

@@ -206,7 +206,7 @@ input[type=reset], input[type=submit] {
     font-size: 13px;
     letter-spacing: 4px;
     line-height: 22px;
-    padding: 40px 0 20px 0;
+    padding: 0px 0 20px 0;
     text-transform: uppercase;
     position: relative;
     text-decoration: none;
@@ -216,6 +216,7 @@ input[type=reset], input[type=submit] {
     -moz-transition: .5s;
     -webkit-transition: .5s;
     transition: .5s;
+    margin-left: 30%;
 }
 
 

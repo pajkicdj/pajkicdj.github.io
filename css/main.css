@@ -78,7 +78,7 @@ ul.posts li {
     user-select: none;
 }
 
-.btn>ul>li {
+.container>ul>li {
     display: table-cell;
 }
 

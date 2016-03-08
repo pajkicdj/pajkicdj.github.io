@@ -176,5 +176,12 @@ input[type=reset], input[type=submit] {
     display: inline-block;
 }
 
+.sumbit, .reset {
+    .button {
+    padding: .5em;
+    background-color: white;
+    border: solid 1px #244751;
+    display: inline-block;
+}
 
 

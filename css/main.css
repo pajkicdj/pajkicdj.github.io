@@ -184,8 +184,13 @@ input[type=reset], input[type=submit] {
     display: inline-block;
 }
 
+.form-submit {
+    width: 63.5%;
+}
+
 .sumbit {
     float: left!important;
+    overflow: auto;
 }
 
 .reset {

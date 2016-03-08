@@ -14,16 +14,22 @@ layout: default
     <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
     <input type="hidden" name="redirect_to" value="http://pajkicdj.github.io/" />
     <!-- all your input fields here.... -->
-    Name:<br />
-    <input type="text" name="name" /><br />
-    <textarea name="name" cols="40"></textarea><br />
-    E-mail:<br />
-    <textarea name="email" cols="40"></textarea><br />
-    <input type="text" name="email" /><br />
-    Body:<br />
-    <textarea name="body" rows="10" cols="40"></textarea><br />
-    <input type="submit" value="Send">
-    <input type="reset" value="Reset">
+    <div class="form-group"></div>
+      <label for="name">Name</label><br />
+      <input type="text" name="name" /><br />
+    </div>
+    <div class="form-group">
+      <label for="email">Email</label><br />
+      <input type="text" name="email" /><br />
+    </div>
+    <div class ="form-group">
+      <label for="body">Body</label><br />
+      <textarea name="body" rows="10" cols="40"></textarea><br />
+    </div>
+    <div class="form-group submit">
+      <input type="submit" value="Send">
+      <input type="reset" value="Reset">
+    </div>
   </form>
 </div>
 </div>

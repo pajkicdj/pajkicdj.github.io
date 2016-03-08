@@ -58,25 +58,6 @@ ul.posts li {
 .pull-right {
     float: right!important;
 }
-
-.btn-your-class {
-    color: rgba(0,0,0,1);
-    font-family: 'Lato', Arial, sans-serif;
-    font-weight: 300;
-    font-size: 13px;
-    letter-spacing: 4px;
-    padding: 20px 20px;
-    text-transform: uppercase;
-    text-decoration: none;
-    -o-transition: .5s;
-    -ms-transition: .5s;
-    -moz-transition: .5s;
-    -webkit-transition: .5s;
-    transition: .5s;
-    display: table-cell;
-}
-
-
 .btn {
     display: inline-block;
     margin-bottom: 0;
@@ -96,6 +77,30 @@ ul.posts li {
     -ms-user-select: none;
     user-select: none;
 }
+
+.btn>ul>li {
+    display: table-cell;
+}
+
+
+
+.btn-your-class {
+    color: rgba(0,0,0,1);
+    font-family: 'Lato', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    letter-spacing: 4px;
+    padding: 20px 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+
 
 
 

@@ -239,5 +239,27 @@ input[type=reset], input[type=submit] {
     padding: 0;
 }
 
+.neighborhood-guides h2 {
+    color: #000;
+    font-family: 'FunctionPro-Demi', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 2px;
+    padding: 80px 0 10px;
+    text-align: center;
+    margin-top: 37px;
+}
+.view img {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
 
+
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
 

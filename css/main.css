@@ -222,6 +222,22 @@ input[type=reset], input[type=submit] {
     font-size: 13px;
 }
 
+.jumbotron {
+    background-image: url('images/1body-placed.jpg');
+    background-position: 50% 50%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 50%;
+}
+
+.view {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    cursor: default;
+    padding: 0;
+}
 
 
 

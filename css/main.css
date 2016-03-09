@@ -289,6 +289,10 @@ img {
     transition: .5s;
 }
 
+.jumbotron {
+    padding: 0px;
+}
+
 .jumbotron img {
     height: 600px;
     background-repeat: no-repeat;

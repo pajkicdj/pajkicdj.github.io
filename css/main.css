@@ -288,15 +288,13 @@ img {
     transition: .5s;
 }
 
-.jumbotron {
+div.jumbotron {
     background-image: url('images/landscape1.jpg');
     background-position: 50% 50%;
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
     left: 50%;
-}
-.jumbotron {
     margin-bottom: 0;
     padding-right: 0;
     padding-left: 0;

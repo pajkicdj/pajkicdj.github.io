@@ -328,4 +328,8 @@ img {
     transition: .5s;
 }
 
+.third-effect .mask:hover {
+    position: absolute;
+    opacity: 0;
+}
 

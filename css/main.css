@@ -291,7 +291,7 @@ img {
     transition: .5s;
 }
 
-.info2:hover {
+.view div.info2:hover {
     color: rgba(251,12,6,1);
 }
 

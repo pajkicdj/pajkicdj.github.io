@@ -251,7 +251,7 @@ input[type=reset], input[type=submit] {
     position: relative;
     width: 100%;
     height: auto;
-    -webkit-filter: saturate(3);
+    -webkit-filter: saturate(2);
 }
 
 

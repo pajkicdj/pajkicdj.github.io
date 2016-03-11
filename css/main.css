@@ -306,7 +306,7 @@ img {
     width: 100%;
 }
 
-.view.third-effect .info2:hover {
+.info2:hover {
     color: rgba(251,12,6,1);
 }
 

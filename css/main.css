@@ -245,14 +245,11 @@ input[type=reset], input[type=submit] {
     position: relative;
     width: 100%;
     height: auto;
-    -webkit-filter: saturate(8);
-    filter: saturate(8);
 }
 
 
 .view img:hover {
-    -webkit-filter: saturate(5);
-    filter: saturate(5);
+    -webkit-filter: saturate(3);
 }
 
 img {

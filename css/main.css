@@ -250,6 +250,11 @@ input[type=reset], input[type=submit] {
 }
 
 
+.view img:hover {
+    -webkit-filter: saturate(5);
+    filter: saturate(5);
+}
+
 img {
     vertical-align: middle;
 }

@@ -289,6 +289,10 @@ img {
     transition: .5s;
 }
 
+.info2:hover {
+    color: rgba(251,12,6,1);
+}
+
 .jumbotron {
     padding: 0px;
     padding-left: 0px;
@@ -306,9 +310,6 @@ img {
     width: 100%;
 }
 
-#lightup:hover {
-    color: rgba(251,12,6,1);
-}
 
 .info4 {
     font-family: 'Lato', Arial, sans-serif;

@@ -245,12 +245,13 @@ input[type=reset], input[type=submit] {
     position: relative;
     width: 100%;
     height: auto;
-}
-
-
-.view img:hover {
     -webkit-filter: saturate(3);
 }
+
+
+/*.view img:hover {*/
+    
+/*}*/
 
 img {
     vertical-align: middle;

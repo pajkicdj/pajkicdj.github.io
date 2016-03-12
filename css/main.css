@@ -300,9 +300,7 @@ img {
     transition: .5s;
 }
 
-.mask .info2:hover {
-    color: rgba(251,12,6,1);
-}
+
 
 .jumbotron {
     padding: 0px;
@@ -344,3 +342,6 @@ img {
     opacity: 0;
 }
 
+.third-effect .mask:hover .info2 {
+    color: rgba(251,12,6,1);
+}

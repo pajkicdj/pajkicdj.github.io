@@ -342,6 +342,6 @@ img {
     opacity: 0;
 }
 
-.third-effect .mask:hover .info2 {
+div#lightup:hover {
     color: rgba(251,12,6,1);
 }

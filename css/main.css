@@ -346,6 +346,10 @@ li.lightup:hover {
     color: rgba(251,12,6,1);
 }
 
-.third-effect .mask:hover > .info2 {
+.info2:hover {
+    color: rgba(251,12,6,1);
+}
+
+#lightup:hover {
     color: rgba(251,12,6,1);
 }

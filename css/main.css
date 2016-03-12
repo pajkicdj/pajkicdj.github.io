@@ -342,6 +342,6 @@ img {
     opacity: 0;
 }
 
-div#lightup:hover {
+li.lightup:hover {
     color: rgba(251,12,6,1);
 }
